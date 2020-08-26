@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LMS"
+           tests="9"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.195">
+  <properties />
+  
+  
+            <testcase name="allCoursesCount" time="1.621" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="verifyFirstInforboxTiltle" time="0.181" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="Login" time="5.082" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="verifyHeading" time="0.313" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="verifyTitle" time="0.040" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="courseTitle" time="3.395" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="verifySecondPopularCourseTiltle" time="0.113" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="contactUs" time="3.070" classname="com.ibm.seleniumproject.LMS_Session10" />
+                <testcase name="verifyMyAccountPage" time="1.380" classname="com.ibm.seleniumproject.LMS_Session10" />
+      
+</testsuite>
