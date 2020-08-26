@@ -1,0 +1,210 @@
+<html>
+<head>
+<title>TestNG:  LMS</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>LMS</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>9/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Aug 26 13:32:18 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>102 seconds (102064 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.Login()'><b>Login</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br>Parameters: root, pa$$w0rd<br/>
+<a href="#Output-237373286" onClick='toggleBox("Output-237373286", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-237373286" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-237373286">
+My Account clicked<br/>
+Login button clicked<br/>
+'root' entered in login text box<br/>
+'pa$$w0rd' entered in password text box<br/>
+Login button clicked clicked<br/>
+Username: Howdy, root<br/>
+User logged in<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.allCoursesCount()'><b>allCoursesCount</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-802255644" onClick='toggleBox("Output-802255644", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-802255644" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-802255644">
+Courses Count: 3<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.contactUs()'><b>contactUs</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-1660451908" onClick='toggleBox("Output-1660451908", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1660451908" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1660451908">
+Contact clicked<br/>
+Test entered in Full Name text box<br/>
+test@yopmail.com entered in Email text box<br/>
+Test entered in Subject text box<br/>
+test entered in Comment or Message text area<br/>
+Send Message button clicked<br/>
+Message: Thanks for contacting us! We will be in touch with you shortly.<br/>
+Message 'Thanks for contacting us! We will be in touch with you shortly.' matched with expected Message<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.courseTitle()'><b>courseTitle</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-658281599" onClick='toggleBox("Output-658281599", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-658281599" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-658281599">
+All Courses clicked<br/>
+First Course clicked<br/>
+Clicked on Expand for first lession<br/>
+Lession: This is the First Topic<br/>
+Lession 'This is the First Topic' matched with expected Lession<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.verifyFirstInforboxTiltle()'><b>verifyFirstInforboxTiltle</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-908084672" onClick='toggleBox("Output-908084672", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-908084672" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-908084672">
+First Info box title: Actionable Training<br/>
+First Info box title 'Actionable Training' matched with expected First Info box title<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.verifyHeading()'><b>verifyHeading</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-1792227359" onClick='toggleBox("Output-1792227359", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1792227359" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1792227359">
+Heading: Learn from Industry Experts<br/>
+Heading 'Learn from Industry Experts' matched with expected heading<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.verifyMyAccountPage()'><b>verifyMyAccountPage</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-1394356510" onClick='toggleBox("Output-1394356510", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1394356510" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1394356510">
+My Account clicked<br/>
+My account page title: My Account – Alchemy LMS<br/>
+My account page title 'My Account – Alchemy LMS' matched with expected My account page title<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.verifySecondPopularCourseTiltle()'><b>verifySecondPopularCourseTiltle</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-594651850" onClick='toggleBox("Output-594651850", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-594651850" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-594651850">
+Second Popular Course Title: Interesting Quizzes<br/>
+Second Popular Course Title 'Interesting Quizzes' matched with expected Second Popular Course Title<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+<tr>
+<td title='com.ibm.seleniumproject.LMS_Activities.verifyTitle()'><b>verifyTitle</b><br>Test class: com.ibm.seleniumproject.LMS_Activities<br/>
+<a href="#Output-818493590" onClick='toggleBox("Output-818493590", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-818493590" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-818493590">
+Title: Alchemy LMS – An LMS Application<br/>
+Tiltle 'Alchemy LMS – An LMS Application' matched with expected title<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.ibm.seleniumproject.LMS_Activities@704921a5</td></tr>
+</table><p>
+</body>
+</html>

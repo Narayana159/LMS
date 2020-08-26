@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Title: Alchemy LMS – An LMS Application]]>
+    </line>
+    <line>
+      <![CDATA[Tiltle 'Alchemy LMS – An LMS Application' matched with expected title]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Heading: Learn from Industry Experts]]>
+    </line>
+    <line>
+      <![CDATA[Heading 'Learn from Industry Experts' matched with expected heading]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[First Info box title: Actionable Training]]>
+    </line>
+    <line>
+      <![CDATA[First Info box title 'Actionable Training' matched with expected First Info box title]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Second Popular Course Title: Interesting Quizzes]]>
+    </line>
+    <line>
+      <![CDATA[Second Popular Course Title 'Interesting Quizzes' matched with expected Second Popular Course Title]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[My Account clicked]]>
+    </line>
+    <line>
+      <![CDATA[My account page title: My Account – Alchemy LMS]]>
+    </line>
+    <line>
+      <![CDATA[My account page title 'My Account – Alchemy LMS' matched with expected My account page title]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[My Account clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login button clicked]]>
+    </line>
+    <line>
+      <![CDATA['root' entered in login text box]]>
+    </line>
+    <line>
+      <![CDATA['pa$$w0rd' entered in password text box]]>
+    </line>
+    <line>
+      <![CDATA[Login button clicked clicked]]>
+    </line>
+    <line>
+      <![CDATA[Username: Howdy, root]]>
+    </line>
+    <line>
+      <![CDATA[User logged in]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Courses Count: 3]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Contact clicked]]>
+    </line>
+    <line>
+      <![CDATA[Test entered in Full Name text box]]>
+    </line>
+    <line>
+      <![CDATA[test@yopmail.com entered in Email text box]]>
+    </line>
+    <line>
+      <![CDATA[Test entered in Subject text box]]>
+    </line>
+    <line>
+      <![CDATA[test entered in Comment or Message text area]]>
+    </line>
+    <line>
+      <![CDATA[Send Message button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Message: Thanks for contacting us! We will be in touch with you shortly.]]>
+    </line>
+    <line>
+      <![CDATA[Message 'Thanks for contacting us! We will be in touch with you shortly.' matched with expected Message]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Started!!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser maximized]]>
+    </line>
+    <line>
+      <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+    </line>
+    <line>
+      <![CDATA[All Courses clicked]]>
+    </line>
+    <line>
+      <![CDATA[First Course clicked]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Expand for first lession]]>
+    </line>
+    <line>
+      <![CDATA[Lession: This is the First Topic]]>
+    </line>
+    <line>
+      <![CDATA[Lession 'This is the First Topic' matched with expected Lession]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[!!!!!Test Execution Ended!!!!]]>
+    </line>
+    <line>
+      <![CDATA[********************************]]>
+    </line>
+  </reporter-output>
+  <suite name="Selenium Project" duration-ms="102064" started-at="2020-08-26T13:32:18 IST" finished-at="2020-08-26T13:34:00 IST">
+    <groups>
+    </groups>
+    <test name="LMS" duration-ms="102064" started-at="2020-08-26T13:32:18 IST" finished-at="2020-08-26T13:34:00 IST">
+      <class name="com.ibm.seleniumproject.LMS_Activities">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="9585" started-at="2020-08-26T13:32:18 IST" finished-at="2020-08-26T13:32:28 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="verifyTitle" duration-ms="35" started-at="2020-08-26T13:32:28 IST" finished-at="2020-08-26T13:32:28 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Title: Alchemy LMS – An LMS Application]]>
+            </line>
+            <line>
+              <![CDATA[Tiltle 'Alchemy LMS – An LMS Application' matched with expected title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="2730" started-at="2020-08-26T13:32:28 IST" finished-at="2020-08-26T13:32:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="7106" started-at="2020-08-26T13:32:30 IST" finished-at="2020-08-26T13:32:38 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyHeading()[pri:1, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="verifyHeading" duration-ms="215" started-at="2020-08-26T13:32:38 IST" finished-at="2020-08-26T13:32:38 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Heading: Learn from Industry Experts]]>
+            </line>
+            <line>
+              <![CDATA[Heading 'Learn from Industry Experts' matched with expected heading]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHeading -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="3435" started-at="2020-08-26T13:32:38 IST" finished-at="2020-08-26T13:32:41 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="7086" started-at="2020-08-26T13:32:41 IST" finished-at="2020-08-26T13:32:48 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyFirstInforboxTiltle()[pri:2, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="verifyFirstInforboxTiltle" duration-ms="184" started-at="2020-08-26T13:32:48 IST" finished-at="2020-08-26T13:32:48 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[First Info box title: Actionable Training]]>
+            </line>
+            <line>
+              <![CDATA[First Info box title 'Actionable Training' matched with expected First Info box title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFirstInforboxTiltle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="3683" started-at="2020-08-26T13:32:48 IST" finished-at="2020-08-26T13:32:52 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="6961" started-at="2020-08-26T13:32:52 IST" finished-at="2020-08-26T13:32:59 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySecondPopularCourseTiltle()[pri:3, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="verifySecondPopularCourseTiltle" duration-ms="134" started-at="2020-08-26T13:32:59 IST" finished-at="2020-08-26T13:32:59 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Second Popular Course Title: Interesting Quizzes]]>
+            </line>
+            <line>
+              <![CDATA[Second Popular Course Title 'Interesting Quizzes' matched with expected Second Popular Course Title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySecondPopularCourseTiltle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="3456" started-at="2020-08-26T13:32:59 IST" finished-at="2020-08-26T13:33:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="6889" started-at="2020-08-26T13:33:03 IST" finished-at="2020-08-26T13:33:10 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyMyAccountPage()[pri:4, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="verifyMyAccountPage" duration-ms="900" started-at="2020-08-26T13:33:10 IST" finished-at="2020-08-26T13:33:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[My Account clicked]]>
+            </line>
+            <line>
+              <![CDATA[My account page title: My Account – Alchemy LMS]]>
+            </line>
+            <line>
+              <![CDATA[My account page title 'My Account – Alchemy LMS' matched with expected My account page title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="2383" started-at="2020-08-26T13:33:11 IST" finished-at="2020-08-26T13:33:13 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="6528" started-at="2020-08-26T13:33:13 IST" finished-at="2020-08-26T13:33:19 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:5, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="Login" duration-ms="2593" started-at="2020-08-26T13:33:19 IST" finished-at="2020-08-26T13:33:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[root]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pa$$w0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[My Account clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login button clicked]]>
+            </line>
+            <line>
+              <![CDATA['root' entered in login text box]]>
+            </line>
+            <line>
+              <![CDATA['pa$$w0rd' entered in password text box]]>
+            </line>
+            <line>
+              <![CDATA[Login button clicked clicked]]>
+            </line>
+            <line>
+              <![CDATA[Username: Howdy, root]]>
+            </line>
+            <line>
+              <![CDATA[User logged in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="3238" started-at="2020-08-26T13:33:22 IST" finished-at="2020-08-26T13:33:25 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="7118" started-at="2020-08-26T13:33:25 IST" finished-at="2020-08-26T13:33:32 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="allCoursesCount()[pri:6, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="allCoursesCount" duration-ms="909" started-at="2020-08-26T13:33:32 IST" finished-at="2020-08-26T13:33:33 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Courses Count: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- allCoursesCount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="1700" started-at="2020-08-26T13:33:33 IST" finished-at="2020-08-26T13:33:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="7029" started-at="2020-08-26T13:33:35 IST" finished-at="2020-08-26T13:33:42 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="contactUs()[pri:7, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="contactUs" duration-ms="2460" started-at="2020-08-26T13:33:42 IST" finished-at="2020-08-26T13:33:44 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Contact clicked]]>
+            </line>
+            <line>
+              <![CDATA[Test entered in Full Name text box]]>
+            </line>
+            <line>
+              <![CDATA[test@yopmail.com entered in Email text box]]>
+            </line>
+            <line>
+              <![CDATA[Test entered in Subject text box]]>
+            </line>
+            <line>
+              <![CDATA[test entered in Comment or Message text area]]>
+            </line>
+            <line>
+              <![CDATA[Send Message button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Message: Thanks for contacting us! We will be in touch with you shortly.]]>
+            </line>
+            <line>
+              <![CDATA[Message 'Thanks for contacting us! We will be in touch with you shortly.' matched with expected Message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="3287" started-at="2020-08-26T13:33:44 IST" finished-at="2020-08-26T13:33:48 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="beforeMethod" is-config="true" duration-ms="6884" started-at="2020-08-26T13:33:48 IST" finished-at="2020-08-26T13:33:55 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Started!!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser maximized]]>
+            </line>
+            <line>
+              <![CDATA[url 'https://alchemy.hguy.co/lms/' launched in the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="courseTitle()[pri:8, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="courseTitle" duration-ms="2069" started-at="2020-08-26T13:33:55 IST" finished-at="2020-08-26T13:33:57 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[All Courses clicked]]>
+            </line>
+            <line>
+              <![CDATA[First Course clicked]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Expand for first lession]]>
+            </line>
+            <line>
+              <![CDATA[Lession: This is the First Topic]]>
+            </line>
+            <line>
+              <![CDATA[Lession 'This is the First Topic' matched with expected Lession]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- courseTitle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.seleniumproject.LMS_Activities@704921a5]" name="afterMethod" is-config="true" duration-ms="3386" started-at="2020-08-26T13:33:57 IST" finished-at="2020-08-26T13:34:00 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+            <line>
+              <![CDATA[!!!!!Test Execution Ended!!!!]]>
+            </line>
+            <line>
+              <![CDATA[********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.ibm.seleniumproject.LMS_Activities -->
+    </test> <!-- LMS -->
+  </suite> <!-- Selenium Project -->
+</testng-results>

@@ -4,18 +4,18 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="11.140">
+           time="9.499">
   <properties />
   
   
-            <testcase name="allCoursesCount" time="0.981" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="verifyFirstInforboxTiltle" time="0.206" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="Login" time="2.996" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="verifyHeading" time="0.223" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="verifyTitle" time="0.021" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="courseTitle" time="2.983" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="verifySecondPopularCourseTiltle" time="0.214" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="contactUs" time="2.395" classname="com.ibm.seleniumproject.LMS_Activities" />
-                <testcase name="verifyMyAccountPage" time="1.121" classname="com.ibm.seleniumproject.LMS_Activities" />
+            <testcase name="verifyFirstInforboxTiltle" time="0.184" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="Login" time="2.593" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="verifyMyAccountPage" time="0.900" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="courseTitle" time="2.069" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="verifySecondPopularCourseTiltle" time="0.134" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="verifyHeading" time="0.215" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="contactUs" time="2.460" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="allCoursesCount" time="0.909" classname="com.ibm.seleniumproject.LMS_Activities" />
+                <testcase name="verifyTitle" time="0.035" classname="com.ibm.seleniumproject.LMS_Activities" />
       
 </testsuite>
